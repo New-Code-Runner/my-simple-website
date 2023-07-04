@@ -1,3 +1,5 @@
 div{
-    color: brown;
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 10px;
 }
